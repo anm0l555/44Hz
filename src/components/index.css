@@ -1,0 +1,17 @@
+*{
+    /* background-color: black; */
+    /* color: white!important; */
+}
+#sidebar-btn {
+    /* display: flex; */
+    /* justify-content: center; */
+    margin-left: 45%;
+    margin-top: 24%;
+    
+}
+.sidenav{
+    width: 87px!important;
+}
+.avatar-left{
+    font-weight: bold;
+}
